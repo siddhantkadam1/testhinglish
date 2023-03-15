@@ -6,7 +6,7 @@ deps:
   nfiles: 1
   path: s3://duploservices-dataopsdev-dataops-979105248912/Source/promisedata
 outs:
-- md5: b20cb56a364e12492b7bcc9835de8138.dir
-  size: 199072543
-  nfiles: 1
+- md5: 35479479c961b1b275e816856e460bcd.dir
+  size: 199111562
+  nfiles: 2
   path: promisedata
