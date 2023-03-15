@@ -1,0 +1,12 @@
+md5: f61d473d6745f0d58164439a2a6502eb
+frozen: true
+deps:
+- md5: 834e474bee1c78a9406719927efa8411.dir
+  size: 199072543
+  nfiles: 1
+  path: s3://duploservices-dataopsdev-dataops-979105248912/Source/promisedata
+outs:
+- md5: b20cb56a364e12492b7bcc9835de8138.dir
+  size: 199072543
+  nfiles: 1
+  path: promisedata

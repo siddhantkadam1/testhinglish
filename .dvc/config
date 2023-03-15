@@ -1,0 +1,2 @@
+['remote "myremote"']
+    url = s3://duploservices-dataopsdev-dataops-979105248912/Remote/testhinglish/
